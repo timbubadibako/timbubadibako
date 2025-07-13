@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="[LINK_KE_WEB_PORTOFOLIO_ANDA]">
-    <img src="https://path/to/your/cool-banner.png" alt="Syifa Pajril Yaum - Digital Craftsman Banner">
+  <a href="https://[NAMA_DOMAIN_PORTOFOLIO_ANDA]">
+    <img src="https://github.com/timbubadibako/timbubadibako/raw/main/portfolio-banner.png" alt="Syifa Pajril Yaum - Banner Profil">
   </a>
 </div>
 
@@ -28,7 +28,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,laravel,php,tailwind,js,ts,nodejs" />
     <br>
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,git,github,figma,docker,postgres,firebase,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,ai,git,github,figma,docker,postgres,firebase,vscode" />
   </a>
 </p>
 
@@ -39,31 +39,53 @@
 <table>
   <tr>
     <td width="50%">
-      <h4 align="center"><a href="[LINK_KE_PROYEK_DI_WEB_ANDA]">Aplikasi Al-Quran (AI Tajwid Corrector)</a></h4>
+      <h4 align="center"><a href="https://github.com/timbubadibako/alQuranApp-Flutter">Aplikasi Al-Quran (AI Tajwid Corrector)</a></h4>
       <p align="center">
-        <a href="[LINK_KE_PROYEK_DI_WEB_ANDA]">
-          <img width="95%" src="https://path/to/your/alquran-project-image.jpg" alt="Proyek Al-Quran AI">
+        <a href="https://github.com/timbubadibako/alQuranApp-Flutter">
+           <img width="95%" src="https://github.com/timbubadibako/timbubadibako/raw/main/project-alquran.png" alt="Proyek Al-Quran AI">
         </a>
         <br>
-        Aplikasi mobile dengan fitur koreksi pelafalan (tajwid) real-time menggunakan AI Speech Recognition.
+        Aplikasi mobile dengan fitur koreksi pelafalan (tajwid) real-time menggunakan AI Speech Recognition. Dibangun dengan Flutter.
       </p>
     </td>
     <td width="50%">
-      <h4 align="center"><a href="[LINK_KE_PROYEK_DI_WEB_ANDA]">TaniCerdas: Asisten Petani AI</a></h4>
+      <h4 align="center"><a href="https://github.com/timbubadibako/warunggo-Laravel">WarungGo - Digitalisasi UMKM</a></h4>
       <p align="center">
-        <a href="[LINK_KE_PROYEK_DI_WEB_ANDA]">
-           <img width="95%" src="https://path/to/your/tanicerdas-project-image.jpg" alt="Proyek TaniCerdas">
+        <a href="https://github.com/timbubadibako/warunggo-Laravel">
+           <img width="95%" src="https://github.com/timbubadibako/timbubadibako/raw/main/project-warunggo.png" alt="Proyek WarungGo">
         </a>
         <br>
-        Aplikasi mobile yang dapat mendeteksi penyakit tanaman via foto dan memberikan rekomendasi penanganan.
+        Super-app untuk warung dan UMKM dengan fitur POS, manajemen stok, dan buku utang digital. Dibangun dengan Laravel.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4 align="center"><a href="https://github.com/timbubadibako/portofolio-React">Personal Portfolio Website</a></h4>
+      <p align="center">
+        <a href="https://github.com/timbubadibako/portofolio-React">
+           <img width="95%" src="https://github.com/timbubadibako/timbubadibako/raw/main/project-portfolio.png" alt="Proyek Portofolio">
+        </a>
+        <br>
+        Portofolio interaktif yang Anda lihat saat ini, menampilkan semua karya dan keahlian saya. Dibangun dengan Next.js & React.
+      </p>
+    </td>
+    <td width="50%">
+      <h4 align="center"><a href="https://github.com/timbubadibako/computerBasedTest-LaravelV2">Aplikasi Ujian Online (CBT)</a></h4>
+      <p align="center">
+        <a href="https://github.com/timbubadibako/computerBasedTest-LaravelV2">
+           <img width="95%" src="https://github.com/timbubadibako/timbubadibako/raw/main/project-cbt.png" alt="Proyek CBT">
+        </a>
+        <br>
+        Platform Computer-Based Test (CBT) yang aman dengan fitur acak soal dan manajemen waktu. Dibuat dengan Laravel V2.
       </p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="[LINK_KE_BAGIAN_PROYEK_DI_WEB_ANDA]">
-    <b>View all projects...</b>
+  <a href="https://github.com/timbubadibako?tab=repositories">
+    <b>View All Repositories...</b>
   </a>
 </p>
 
