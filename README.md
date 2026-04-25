@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://[NAMA_DOMAIN_PORTOFOLIO_ANDA]">
-    <img src="https://github.com/timbubadibako/timbubadibako/raw/main/portfolio-banner.png" alt="Syifa Pajril Yaum - Banner Profil">
+    <!-- <img src="https://github.com/timbubadibako/timbubadibako/raw/main/portfolio-banner.png" alt="Syifa Pajril Yaum - Banner Profil"> -->
   </a>
 </div>
 
